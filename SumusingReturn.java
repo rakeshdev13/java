@@ -3,7 +3,7 @@ package AllProgram;
 public class SumusingReturn {
 	
 	
-	 static int addition(int a, int b) {
+	 static int addition(int a, int b) { 
 		return(a+b);
 	}
 
